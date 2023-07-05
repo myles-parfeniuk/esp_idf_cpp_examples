@@ -10,11 +10,13 @@
 #include "freertos/task.h"
 #include "esp_log.h"
 
-/*ButtonDriver example with a single button and single registered call-back that prints to terminal when button
-activity is detected.
-
-Default gpio pin is 25, button is assumed to be active low, modify the initialization of the button_config_t struct
-below as required*/
+/*ButtonDriver example with a single button. 
+* Button has single registered call-back that prints to terminal when button activity is detected.
+*
+* - Default gpio is pin 25
+* - Button is assumed to be active low with external pullup
+*
+* Modify the button_config_t struct initialization as necessary. */
 extern "C" void app_main()
 {
     //configuring a button that is active low, with external pullup
