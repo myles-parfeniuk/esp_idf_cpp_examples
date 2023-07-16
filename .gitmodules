@@ -16,3 +16,9 @@
 [submodule "ButtonDriver/single_button_example/components/task_wrapper"]
 	path = ButtonDriver/single_button_example/components/task_wrapper
 	url = https://github.com/myles-parfeniuk/task_wrapper.git
+[submodule "TaskWrapper/two_task_example/components/task_wrapper"]
+	path = TaskWrapper/two_task_example/components/task_wrapper
+	url = https://github.com/myles-parfeniuk/task_wrapper.git
+[submodule "TaskWrapper/task_as_class_method_example/components/task_wrapper"]
+	path = TaskWrapper/task_as_class_method_example/components/task_wrapper
+	url = https://github.com/myles-parfeniuk/task_wrapper.git
