@@ -10,12 +10,6 @@
 [submodule "ButtonDriver/pause_button_example/components/button_driver"]
 	path = ButtonDriver/pause_button_example/components/button_driver
 	url = https://github.com/myles-parfeniuk/button_driver.git
-[submodule "ButtonDriver/pause_button_example/components/task_wrapper"]
-	path = ButtonDriver/pause_button_example/components/task_wrapper
-	url = https://github.com/myles-parfeniuk/task_wrapper.git
-[submodule "ButtonDriver/single_button_example/components/task_wrapper"]
-	path = ButtonDriver/single_button_example/components/task_wrapper
-	url = https://github.com/myles-parfeniuk/task_wrapper.git
 [submodule "TaskWrapper/two_task_example/components/task_wrapper"]
 	path = TaskWrapper/two_task_example/components/task_wrapper
 	url = https://github.com/myles-parfeniuk/task_wrapper.git
