@@ -1,6 +1,7 @@
 # esp_idf_cpp_examples
 This repo contains esp-idf example projects written in C++.  
-The projects were written for esp-idf v4.0 and are intended to demonstrate the use of custom esp-idf components I have written.
+The projects are written for esp-idf v5.0+ and are intended to demonstrate how to develop for esp-idf in a C++ enviroment.
+The examples are organized into directories utilizing different components I have developed.
 
 ## Building and Running a Project
 
